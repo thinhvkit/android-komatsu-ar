@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Thu Jun 28 16:48:03 ICT 2018
+7.path=lib/x86/libtensorflow_inference.so
+2.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/assets/release
+5.set=NATIVE_RESOURCE
+0.path=lib/armeabi-v7a/libtensorflow_inference.so
+2.baseType=DIRECTORY
+3.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/stripDebugSymbol/release/0
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=lib/x86_64/libtensorflow_inference.so
+4.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/dex/release/0
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=frozen_inference_graph.pb
+5.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/stripDebugSymbol/release/0
+4.set=DEX
+3.path=lib/arm64-v8a/libtensorflow_inference.so
+6.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/assets/release
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+7.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/stripDebugSymbol/release/0
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/armeabi-v7a/libtensorflow_demo.so
+0.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/stripDebugSymbol/release/0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=labels.txt
+1.base=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/stripDebugSymbol/release/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

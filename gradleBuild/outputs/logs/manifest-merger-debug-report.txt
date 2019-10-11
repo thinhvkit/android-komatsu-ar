@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:17:1-55:12
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:17:1-55:12
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.8.0.aar/5091892944b7b2728c9288c329e79b97/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:design:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/98fe17221aa5cbd31ed6aba381885c44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4ba06436b47fcbbad1c713aed44ddcb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/32816fdd8b8f11c5fed0cff7f16a328e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d66203424dec9a0c370f4baf1e62fa66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/38c35a922c25b25601bb7aa5665c341c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8440ad2aab39b00ae7e2a390d72e05c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4f176e8e52313aa426ee678fe4833348/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/df01ead02d0f5f5d76774384c18cd334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/314f2d5f2a762a2bd46d4cb098c7a077/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e8f4ff90f6c565e9f37834620c753a7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/fe46c0cd48830d9cd00847900171a1be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/26c4f3e111fb50b6df91445ded031703/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8ffe6f78cfd5106724d9047c66d2d19f/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:17:1-55:12
+	package
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:18:5-34
+		INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+		INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:20:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:26:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:30:22-68
+application
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:32:5-53:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.8.0.aar/5091892944b7b2728c9288c329e79b97/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.8.0.aar/5091892944b7b2728c9288c329e79b97/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:34:9-43
+	android:allowBackup
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:36:9-45
+activity#org.tensorflow.demo.activity.SplashActivity
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:38:9-46:20
+	android:screenOrientation
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:40:13-50
+	android:theme
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:39:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:44:27-74
+activity#org.tensorflow.demo.DetectorActivity
+ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:48:9-51:53
+	android:screenOrientation
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:51:13-50
+	android:label
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:49:13-64
+uses-sdk
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/98fe17221aa5cbd31ed6aba381885c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/98fe17221aa5cbd31ed6aba381885c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4ba06436b47fcbbad1c713aed44ddcb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4ba06436b47fcbbad1c713aed44ddcb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/32816fdd8b8f11c5fed0cff7f16a328e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/32816fdd8b8f11c5fed0cff7f16a328e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d66203424dec9a0c370f4baf1e62fa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d66203424dec9a0c370f4baf1e62fa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/38c35a922c25b25601bb7aa5665c341c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/38c35a922c25b25601bb7aa5665c341c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8440ad2aab39b00ae7e2a390d72e05c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8440ad2aab39b00ae7e2a390d72e05c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4f176e8e52313aa426ee678fe4833348/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4f176e8e52313aa426ee678fe4833348/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/df01ead02d0f5f5d76774384c18cd334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/df01ead02d0f5f5d76774384c18cd334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/314f2d5f2a762a2bd46d4cb098c7a077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/314f2d5f2a762a2bd46d4cb098c7a077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e8f4ff90f6c565e9f37834620c753a7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e8f4ff90f6c565e9f37834620c753a7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/fe46c0cd48830d9cd00847900171a1be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/fe46c0cd48830d9cd00847900171a1be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/26c4f3e111fb50b6df91445ded031703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/26c4f3e111fb50b6df91445ded031703/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8ffe6f78cfd5106724d9047c66d2d19f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/vobiin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8ffe6f78cfd5106724d9047c66d2d19f/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+		INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+		ADDED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+		INJECTED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:17:1-55:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/vobiin/AndroidProjects/android-komatsu-ar/AndroidManifest.xml:17:1-55:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

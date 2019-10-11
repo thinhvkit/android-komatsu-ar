@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/vobiin/AndroidProjects/android-komatsu-ar/libs"/></dataSet><dataSet config="debug"><source path="/Users/vobiin/AndroidProjects/android-komatsu-ar/build-types/debug/jniLibs"/></dataSet></merger>

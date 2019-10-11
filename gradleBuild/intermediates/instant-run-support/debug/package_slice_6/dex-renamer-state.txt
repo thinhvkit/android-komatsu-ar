@@ -1,0 +1,4 @@
+#Fri Jun 29 16:41:38 ICT 2018
+base.0=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/dexMerger/debug/64
+path.0=classes.dex
+renamed.0=classes.dex

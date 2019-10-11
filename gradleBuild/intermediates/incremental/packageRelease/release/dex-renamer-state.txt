@@ -1,0 +1,4 @@
+#Fri Jun 29 16:51:44 ICT 2018
+base.0=/Users/vobiin/AndroidProjects/android-komatsu-ar/gradleBuild/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
